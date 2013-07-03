@@ -32,7 +32,7 @@ import java.util.Map;
  * HttpClientUtil.java
  *
  * @author catty
- * @version 1.0, Created on 2008/2/20  s
+ * @version 1.0, Created on 2008/2/20
  */
 public class HttpClientUtil {
 
