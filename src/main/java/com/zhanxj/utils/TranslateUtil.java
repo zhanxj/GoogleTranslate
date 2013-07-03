@@ -34,7 +34,7 @@ public class TranslateUtil {
 
     /**
      * <pre>Google翻譯
-     * PS: 交由google自動判斷來源語系   jj
+     * PS: 交由google自動判斷來源語系
      * </pre>
      *
      * @param text
