@@ -34,12 +34,12 @@ public class TranslateUtil {
 
     /**
      * <pre>Google翻譯
-     * PS: 交由google自動判斷來源語系
+     * PS: 交由google自動判斷來源語系ss
      * </pre>
      *
      * @param text
      * @param target_lang 目標語系
-     * @return s
+     * @return
      * @throws Exception
      */
     public static String translate(final String text, final String target_lang) throws Exception {

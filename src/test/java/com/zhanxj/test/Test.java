@@ -1,4 +1,4 @@
-package com.zhanxj.test;
+﻿package com.zhanxj.test;
 
 import com.zhanxj.utils.TranslateUtil;
 import org.slf4j.Logger;
@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
  * Created with IntelliJ IDEA.
  * User: Hokin.jim
  * Date: 13-7-3
- * Time: 上午11:48
+ * Time: 上午11:48s
  * Email:zhanxuejian@gmail.com
  */
 public class Test {
