@@ -1,4 +1,4 @@
-﻿package com.zhanxj.test;
+package com.zhanxj.test;
 
 import com.zhanxj.utils.TranslateUtil;
 import org.slf4j.Logger;
